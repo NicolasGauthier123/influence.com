@@ -1,0 +1,18 @@
+.btn-blue {
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	border:  none;
+	color: #318ADE;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Istok Web', sans-serif;
+}
+
+.btn-blue:hover{
+	background: #318ADE;
+	transform:  translateY(-7px);
+	color: white;
+	box-shadow: 0px 10px 25px
+		rgba(46, 223, 229, 0.44s);
+}
